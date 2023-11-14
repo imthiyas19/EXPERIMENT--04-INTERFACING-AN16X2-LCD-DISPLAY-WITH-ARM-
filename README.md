@@ -202,7 +202,7 @@ Lcd_cursor(&lcd, 0,3);
 Lcd_string(&lcd, "DEPT : AIDS");
 
 Lcd_cursor(&lcd, 1,5);
-Lcd_string(&lcd, "BALAMURUGAN");
+Lcd_string(&lcd, "imthiyas");
 
 while (1) {
 
